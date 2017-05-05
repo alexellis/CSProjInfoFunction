@@ -1,0 +1,5 @@
+c:\users\administrator\documents\visual studio 2015\Projects\Function\Function\bin\Debug\Function.exe.config
+c:\users\administrator\documents\visual studio 2015\Projects\Function\Function\bin\Debug\Function.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Function\Function\bin\Debug\Function.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\Function\Function\obj\Debug\Function.exe
+c:\users\administrator\documents\visual studio 2015\Projects\Function\Function\obj\Debug\Function.pdb
